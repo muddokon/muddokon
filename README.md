@@ -1,10 +1,15 @@
-### Hi there I'm JSGR 👋
+## Hi there I'm JSGR 👋
 
-I'm a UX 👊 Game 🎮: Blockchain 💰 developer and architect
+I'm a UX 👊 Game 🎮 Blockchain 💰 Developer and Architect
 
-My current Skills in use and improvement:
+💬 Ask me about:
+Cloud computing, Blockchain, Game design, Game Dev, User experience and interfacing, DevOps, Smart contracts, Fullstack Dev, Web3.
 
-<a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png)" alt="c" width="50"/> </a>
+My current Skills I use and improve constantly:
+<a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" alt="Unity" width="50"/> </a>
+
+📫 Reach me out:
+<a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Unity" width="50"/> </a>
 
 <!--
 **muddokon/muddokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
