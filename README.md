@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm JSGR 👋
+
+I'm a UX 👊 Game 🎮: Blockchain 💰 developer and architect
+
+My current Skills in use and improvement:
+
+![Unity](https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png | height=200)
 
 <!--
 **muddokon/muddokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
