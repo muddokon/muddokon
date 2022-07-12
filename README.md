@@ -3,7 +3,7 @@
 I'm a UX 👊 Game 🎮 Blockchain 💰 Developer and Architect
 
 💬 Ask me about:
-Cloud computing, Blockchain, Game design, Game Dev, User experience and interfacing, DevOps, Smart contracts, Fullstack Dev, Web3.
+Cloud computing, Blockchain, Game design, Game Dev, User experience and interfacing, DevOps, Smart contracts, Fullstack Dev, Web3, GameFi, DeFi, Team Setup, Agile, Databases.
 
 My current Skills I use and improve constantly:
 <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" alt="Unity" width="50"/> </a>
