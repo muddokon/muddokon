@@ -5,7 +5,7 @@ I'm a UX 👊 Game 🎮 Blockchain 💰 Developer and Coach
 Open source enthusiast, evangelist and musician.
 
 💬 Ask me about:
-Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping, DevOps, Smart contracts, Fullstack Dev, Web3, GameFi, DAO, Team Setup, Agile, Databases.
+Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping, DevOps, Smart contracts, Fullstack Dev, Web3, GameFi, DAO, Team Setup, Agile, Databases, Modeling and simulation, Machine learning, Computer graphics, Computer Vision.
 
 ⚡ My Skills:
 <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Unity-logo-1.jpg" alt="Unity" width="50"/> </a>
@@ -24,9 +24,13 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="50"/> </a>
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.jpg" alt="mongodb" width="50"/> </a>
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="50"/> </a>
+<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="50"/> </a>
+<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tf" width="50"/> </a>
 
 🌱 I'm always learning new stuff: 
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://ffnews.com/wp-content/uploads/2021/07/q4itcBEb_400x400.jpg" alt="polygon" width="50"/> </a>
+<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png" alt="solana" width="50"/> </a>
+<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/739070/62526177-3fcb4700-b828-11e9-8c7a-4e31dbf65dc7.png" alt="rust" width="50"/> </a>
 
 👯 Check out my contributions and portfolio on:
 - Github
@@ -36,6 +40,9 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 - Opensea
 - Code Sandbox
 - Replit
+- Soundcloud
+- Papers
+- Transmedia
 
 📫 Reach me out:
 <a href="https://www.linkedin.com/in/sebastian-gomez-rosas" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" alt="Unity" width="50"/> </a>
