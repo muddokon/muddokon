@@ -18,13 +18,13 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" alt="Nextjs" width="50"/> </a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://logojinni.com/image/logos/react-446.svg" alt="react" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" alt="aws" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="linux" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.jpg" alt="mongodb" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="50"/> </a>
-<a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tf" width="50"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/aws-amazon-web-services.jpg" alt="aws" width="50"/> </a>
+<a href="https://www.linux.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="linux" width="50"/> </a>
+<a href="https://www.firebase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.jpg" alt="mongodb" width="50"/> </a>
+<a href="https://www.potgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="50"/> </a>
+<a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="50"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tf" width="50"/> </a>
 
 - 🔨 Tools I use:
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="50"/> </a>
