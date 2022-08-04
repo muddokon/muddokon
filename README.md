@@ -1,6 +1,6 @@
 ## Hi there I'm JSGR 👋
 
-I'm a UX 👊 Game 🎮 Blockchain 💰 Developer and Coach
+I'm a UX 👊 Game 🎮 Web3 💰 Developer, Architect and Coach
 
 Open source enthusiast, evangelist and musician.
 
@@ -35,23 +35,23 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/739070/62526177-3fcb4700-b828-11e9-8c7a-4e31dbf65dc7.png" alt="rust" width="50"/> </a>
 
 👯 Check out my contributions and portfolio on:
-- Github
-- Global Game Jam
-- Itch.io
-- Ludum Dare
-- Opensea
-- Code Sandbox
-- Replit
-- Soundcloud
-- Papers
-- Transmedia
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Github</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Global Game Jam</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Itch.io</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Ludum Dare</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Opensea</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Code Sandbox</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Replit</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Soundcloud</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Papers</a>
+- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Transmedia</a>
 
 📫 Reach me out:
 <a href="https://www.linkedin.com/in/sebastian-gomez-rosas" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" alt="Unity" width="50"/> </a>
-<a href="https://www.buildspace.com/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/6c8cbe3553e716b23b087240b3630de1/90cd3/buildspace.png" alt="BS" width="50"/> </a>
+<a href="https://buildspace.so/" target="_blank" rel="noreferrer"> <img src="https://ethereum.org/static/6c8cbe3553e716b23b087240b3630de1/90cd3/buildspace.png" alt="BS" width="50"/> </a>
 <a href="https://www.gitcoin.co/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/23297747/40148910-112c56d4-5936-11e8-95df-aa9796b33bf3.png" alt="gitcoin" width="50"/> </a>
 <a href="https://www.twitter.com/sebasnaranja" target="_blank" rel="noreferrer"> <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2013/08/17981-logo-twitter.png?itok=dElA6iAV" alt="Twitter" width="50"/> </a>
-<a href="https://www.discord.com/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="50"/> </a>
+<a href="https://discordapp.com/users/950491192691396629" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="50"/> </a>
 
 <!--
 **muddokon/muddokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
