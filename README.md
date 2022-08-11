@@ -11,7 +11,6 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Unity-logo-1.jpg" alt="Unity" width="50"/> </a>
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" alt="Godot" width="50"/> </a>
 <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1021/1*6PyBsw_sP7tP_ff_I-Ie6g.png" alt="Solidity" width="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="50"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="50"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="50"/> </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Nodejs" width="50"/> </a>
@@ -28,6 +27,11 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 
 - 🔨 Tools I use:
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="50"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/MuseScore_logo.png/1024px-MuseScore_logo.png" alt="muse score" width="50"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="code" width="50"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.innerzaurus.com/wp-content/uploads/2020/08/Logo-de-Git.png" alt="git" width="50"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdt70aBJx_Jej_gXQSmymXZxw05DErqbx36qqcwfJS&s" alt="pnpm" width="50"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://help.apple.com/assets/61969817CE76B47A346B2B67/6196981BCE76B47A346B2B86/en_US/390711ce08c61bf054d3dc4dfb9080ae.png" alt="logic pro" width="50"/> </a>
 
 🌱 I'm always learning new stuff: 
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://ffnews.com/wp-content/uploads/2021/07/q4itcBEb_400x400.jpg" alt="polygon" width="50"/> </a>
