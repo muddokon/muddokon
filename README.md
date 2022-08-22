@@ -1,6 +1,6 @@
 ## Hi there I'm JSGR 👋
 
-I'm a UX 👊 Game 🎮 Web3 💰 Developer, Architect and Coach
+I'm a UX 👊 Game 🎮 Web3 💰 Developer, Architect and Coach.
 
 Open source enthusiast, evangelist and musician.
 
@@ -39,16 +39,16 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 <a href="https://www.godotengine.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/739070/62526177-3fcb4700-b828-11e9-8c7a-4e31dbf65dc7.png" alt="rust" width="50"/> </a>
 
 👯 Check out my contributions and portfolio on:
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Github</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Global Game Jam</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Itch.io</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Ludum Dare</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Opensea</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Code Sandbox</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Replit</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Soundcloud</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Papers</a>
-- <a href="https://www.github.com/" target="_blank" rel="noreferrer">Transmedia</a>
+- <a href="https://www.github.com/muddokon" target="_blank" rel="noreferrer">Github</a>
+- <a href="https://www.globalgamejam.org/" target="_blank" rel="noreferrer">Global Game Jam</a>
+- <a href="https://www.itch.io/" target="_blank" rel="noreferrer">Itch.io</a>
+- <a href="https://www.ldjam.org/" target="_blank" rel="noreferrer">Ludum Dare</a>
+- <a href="https://www.opensea.com/" target="_blank" rel="noreferrer">Opensea</a>
+- <a href="https://www.codesandbox.com/" target="_blank" rel="noreferrer">Code Sandbox</a>
+- <a href="https://www.replit.com/" target="_blank" rel="noreferrer">Replit</a>
+- <a href="https://www.soundcloud.com/" target="_blank" rel="noreferrer">Soundcloud</a>
+- <a href="https://www.sciencedirect.com/" target="_blank" rel="noreferrer">Papers</a>
+- <a href="https://www.innmersa.com/" target="_blank" rel="noreferrer">Transmedia</a>
 
 📫 Reach me out:
 <a href="https://www.linkedin.com/in/sebastian-gomez-rosas" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=360" alt="Unity" width="50"/> </a>
