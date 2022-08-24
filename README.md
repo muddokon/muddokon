@@ -40,13 +40,13 @@ Cloud computing, Blockchain, Game design, Game Dev, User experience, Protoyping,
 
 👯 Check out my contributions and portfolio on:
 - <a href="https://www.github.com/muddokon" target="_blank" rel="noreferrer">Github</a>
-- <a href="https://www.globalgamejam.org/" target="_blank" rel="noreferrer">Global Game Jam</a>
-- <a href="https://www.itch.io/" target="_blank" rel="noreferrer">Itch.io</a>
-- <a href="https://www.ldjam.org/" target="_blank" rel="noreferrer">Ludum Dare</a>
+- <a href="https://globalgamejam.org/2017/games/dance-demolition" target="_blank" rel="noreferrer">Global Game Jam</a>
+- <a href="https://kraykon.itch.io/" target="_blank" rel="noreferrer">Itch.io</a>
+- <a href="https://kraykon.itch.io/monolith" target="_blank" rel="noreferrer">Ludum Dare</a>
 - <a href="https://www.opensea.com/" target="_blank" rel="noreferrer">Opensea</a>
-- <a href="https://www.codesandbox.com/" target="_blank" rel="noreferrer">Code Sandbox</a>
-- <a href="https://www.replit.com/" target="_blank" rel="noreferrer">Replit</a>
-- <a href="https://www.soundcloud.com/" target="_blank" rel="noreferrer">Soundcloud</a>
+- <a href="https://www.codesandbox.com/muddokon" target="_blank" rel="noreferrer">Code Sandbox</a>
+- <a href="https://www.replit.com/@muddokon" target="_blank" rel="noreferrer">Replit</a>
+- <a href="https://soundcloud.com/sebastian-gomez-rosas" target="_blank" rel="noreferrer">Soundcloud</a>
 - <a href="https://www.sciencedirect.com/" target="_blank" rel="noreferrer">Papers</a>
 - <a href="https://www.innmersa.com/" target="_blank" rel="noreferrer">Transmedia</a>
 
